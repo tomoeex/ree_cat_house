@@ -22,3 +22,4 @@ npm i nodemon
 ---
 8️. รันโปรเจกต์ด้วย Nodemon = 
 npx nodemon
+---
